@@ -1,0 +1,8 @@
+DirectoryIndex index.php 
+
+ErrorDocument 400 http://mcquest.is-great.net/
+ErrorDocument 401 http://mcquest.is-great.net/
+ErrorDocument 403 http://mcquest.is-great.net/
+ErrorDocument 404 http://mcquest.is-great.net/
+ErrorDocument 500 http://mcquest.is-great.net/
+ErrorDocument 503 http://mcquest.is-great.net/
